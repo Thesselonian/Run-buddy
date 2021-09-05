@@ -1,0 +1,8 @@
+.header {
+    display: inline-block
+}
+
+.navigation-link {
+    display: inline-block;
+    text-align: right
+}
