@@ -1,3 +1,0 @@
-This website is called Runbuddy. It will be the landing page for a coaching service. In the page includes information about the service, what the client can expect 
-through participation in the coaching services, detailed bio's for all the of the trainers available and also information on how to connect with the Running buddy company.
-There is a form for submitting name, email address and telephone number. This information will be pushed to a database for retrieval and follow up.
